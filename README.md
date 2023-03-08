@@ -4,7 +4,7 @@ HOW TO RUN THIS PROGRAM
 2. Rename "Flask-main" to "Flask"
 3. Delete __pycache__ Folder
 4. Open the Flask folder using visual studio code
-5. Run Terminal: Create New Terminal using " Ctrl + Shift + ` "
+5. Run Terminal: Create New Terminal using " Ctrl + Shift + `  "
 6. run the program using " python -m flask run " in the terminal
 
 # Flask
