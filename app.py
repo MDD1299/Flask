@@ -24,5 +24,7 @@ def predict():
     final_features = [np.array(int_features)]
     prediction = model.predict(final_features)
     res = prediction.item()
-
     return render_template('ml.html', prediction_text='Expected Salary Rate should be $ {}'.format(res) )
+
+#Still need model from data scraping
+#model = predict.load(open('C:/Users/itsloudc/webdev/flask_app/model.pkl', 'rb'))
