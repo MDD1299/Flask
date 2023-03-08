@@ -1,13 +1,14 @@
 HOW TO RUN THIS PROGRAM
 
 1. Download the File
-2. Delete __pycache__ Folder
-3. Open the Flask folder using visual studio code
-4. Run Terminal: Create New Terminal using " Ctrl + Shift + ` "
-5. run the program using " python -m flask run " in the terminal
+2. Rename "Flask-main" to "Flask"
+3. Delete __pycache__ Folder
+4. Open the Flask folder using visual studio code
+5. Run Terminal: Create New Terminal using " Ctrl + Shift + ` "
+6. run the program using " python -m flask run " in the terminal
 
 # Flask
+NEED TO DO:
 
-STILL MISSING MODEL
-
-STILL NEED DESIGN
+1. STILL MISSING MODEL FROM DATA SCRAPING (DESERIE/LAB)
+2. STILL NEED DESIGN 
